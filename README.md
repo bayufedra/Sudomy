@@ -73,6 +73,7 @@ git clone --recursive https://github.com/screetsec/Sudomy.git
 ### Dependencies
 ```
 $ pip install -r requirements.txt
+$ sudo apt-get install jq
 ```
 ### Post Installation
 API Key is needed before querying on third-party sites, such as ```Shodan, Censys, SecurityTrails, Virustotal,``` and ```BinaryEdge```. 
